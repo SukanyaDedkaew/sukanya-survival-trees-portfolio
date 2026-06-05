@@ -7,18 +7,18 @@ Survival Trees implementation for predictive modeling and survival analysis acro
 <img width="1920" height="1080" alt="Slide3" src="https://github.com/user-attachments/assets/31660ba2-62c4-4cd8-8325-c2ae35cefbcc" />
 
 # [Project 2 : IBM HR Analytics](https://github.com/SukanyaDedkaew/sukanya-survival-trees-portfolio/blob/main/R_Code/IBM_HR_Analytics.R)
-<img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/b14a667b-fb78-4732-92e4-50d8f8855770" />
-<img width="1920" height="1080" alt="Slide3" src="https://github.com/user-attachments/assets/8907aa0f-f713-40a6-bc15-129945996533" />
-<img width="1920" height="1080" alt="Slide4" src="https://github.com/user-attachments/assets/dd8ca1af-9929-4bd2-b91e-5abe6dc7d966" />
+<img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/fe720c90-3157-43a5-8c29-6ebda1e005da" />
+<img width="1920" height="1080" alt="Slide3" src="https://github.com/user-attachments/assets/49d422b3-f4fd-4258-b7e2-3c7ac81ca215" />
+<img width="1920" height="1080" alt="Slide4" src="https://github.com/user-attachments/assets/21bc7828-b83e-4115-91d1-c7a37d45ef5f" />
 
 # [Project 3 : Lending Club Loan](https://github.com/SukanyaDedkaew/sukanya-survival-trees-portfolio/blob/main/R_Code/Lending_Club_Loan.R)
-<img width="1920" height="1080" alt="Slide1" src="https://github.com/user-attachments/assets/fddbd136-69eb-4667-9517-384198a965f4" />
-<img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/53b87d98-1be1-4016-861b-e8a29275f803" />
-<img width="1920" height="1080" alt="Slide3" src="https://github.com/user-attachments/assets/325c76b4-1995-47bc-ad81-6381c6839fc0" />
+<img width="1920" height="1080" alt="Slide1" src="https://github.com/user-attachments/assets/998c5acc-21b6-486f-9fd0-af8306c08d2a" />
+<img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/598fa2c0-03fa-4825-9815-91c2d00aea3e" />
+<img width="1920" height="1080" alt="Slide3" src="https://github.com/user-attachments/assets/f33f965b-1b55-46ed-ad71-f635cdfa4ffd" />
 
 # [Project 4 : Machine Failure Predictions](https://github.com/SukanyaDedkaew/sukanya-survival-trees-portfolio/blob/main/R_Code/Machine_Failure_Predictions.R)
-<img width="1920" height="1080" alt="Slide1" src="https://github.com/user-attachments/assets/ac5e2e3c-b7df-4af5-ab5e-0e59293843f6" />
-<img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/97d35181-0f36-4eb9-9e8f-0f938a8e9e51" />
+<img width="1920" height="1080" alt="Slide1" src="https://github.com/user-attachments/assets/22fa054e-69c6-4ef0-a32f-c759722718d2" />
+<img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/2c4c3aa5-a650-4089-9767-c5c288243b29" />
 
 # [Project 5 : Telco Customer Churn](https://github.com/SukanyaDedkaew/sukanya-survival-trees-portfolio/blob/main/R_Code/Telco_Customer_Churn.R)
 <img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/7ac2cb68-d162-4aa8-b864-afc2339a19cf" />

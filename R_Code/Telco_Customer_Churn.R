@@ -1,4 +1,4 @@
-# Import a dataset
+# Import a dataset at https://www.kaggle.com/datasets/blastchar/telco-customer-churn  
 Telco_Customer_Churn <-read.csv(file.choose(),header = TRUE)
 
 # Show whole dataset 

@@ -18,3 +18,7 @@ Survival Trees implementation for predictive modeling and survival analysis acro
 <img width="1920" height="1080" alt="Slide1" src="https://github.com/user-attachments/assets/22fa054e-69c6-4ef0-a32f-c759722718d2" />
 <img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/2c4c3aa5-a650-4089-9767-c5c288243b29" />
 
+# [Project 5 : Car Insurance Claims](https://github.com/SukanyaDedkaew/sukanya-survival-trees-portfolio/blob/main/R_Code/Telco_Customer_Churn.R)
+<img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/7845f5d2-df75-4f9b-bcb6-b52a6579c461" />
+<img width="1920" height="1080" alt="Slide3" src="https://github.com/user-attachments/assets/9926f2c0-b6e3-4e97-9535-8614d4d64300" />
+<img width="1920" height="1080" alt="Slide4" src="https://github.com/user-attachments/assets/288f8633-247f-4963-a72c-fea05998af39" />
